@@ -1,0 +1,44 @@
+[
+    {
+      "precio": 120,
+      "id": 1,
+      "title": "Pizza",
+      "des": "Pizza al horno con 4 ingredientes.",
+      "thumbnailUrl": "img/pizza.jpg"
+    },
+    {
+      "precio": 75,
+      "id": 2,
+      "title": "Ensalada",
+      "des": "Super natural y con ingredientes super frescos.",
+      "thumbnailUrl": "img/Ensalada.jpg"
+    },
+    {
+      "precio": 50,
+      "id": 3,
+      "title": "Hojaldre",
+      "des": "Disfruta de un pan de hojaldra relleno de pollo.",
+      "thumbnailUrl": "img/hojaldre.jpg"
+    },
+    {
+      "precio": 50,
+      "id": 4,
+      "title": "Camarones",
+      "des": "Camarones salteados con adereso y ensalada.",
+      "thumbnailUrl": "img/camarones.jpg"
+    },
+    {
+      "precio": 75,
+      "id": 5,
+      "title": "Salmon",
+      "des": "Filete de salmon con ensalada.",
+      "thumbnailUrl": "img/salmon.jpg"
+    },
+    {
+      "precio": 25,
+      "id": 6,
+      "title": "Limonada",
+      "des": "Rica limonada con hielos 100% natural",
+      "thumbnailUrl": "img/Limonada.jpg"
+    }
+  ]

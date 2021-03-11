@@ -1,0 +1,48 @@
+#main-container{
+    background-image: url(img/floor-1256804_1920.jpg);
+}
+#main-container header #menu{
+    padding: 50px 0px;
+    flex-wrap: wrap;
+    min-width: none;
+}
+
+header #menu ul{
+    margin: 0;
+    padding: 0;
+}
+header #menu ul li{
+    display:inline-block;
+    padding: 10px;
+    font-size: 20px;
+    vertical-align: middle;
+}
+header #menu ul li a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+header #menu ul #select{
+    margin-right: 10%;
+}
+
+header #menu ul li a:hover{
+    text-decoration: underline;
+    color: gray;
+    text-decoration: none;
+}
+header #menu ul #logo{
+    margin-right: 10%;
+    margin-left: 100px;
+    margin-top: 0px;
+   
+}
+header #menu ul #logo{
+    margin-right: 10%;
+    margin-left: 100px;
+    width: 5px;
+    height: 5px;
+   
+}
+body{
+    background-color:#ededed;
+}
